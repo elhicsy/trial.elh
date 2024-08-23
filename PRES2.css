@@ -1,0 +1,25 @@
+/* Candidate page styling */
+.candidate-page {
+    text-align: center;
+    background-color: #e0f7fa; /* Baby blue background */
+    padding: 20px;
+}
+
+.candidate-image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.back-button {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #00796b;
+    font-size: 18px;
+}
+
+.back-button:hover {
+    text-decoration: underline;
+}
